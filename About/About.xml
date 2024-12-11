@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Grenade of D20</name>
+	<author>Arkman575</author>
+	<packageId>Arkman575.GrenadeOfDTwenty</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>
+	This mod offers a grenade for those who wish to worship RNGesus.
+	</description>
+</ModMetaData>
